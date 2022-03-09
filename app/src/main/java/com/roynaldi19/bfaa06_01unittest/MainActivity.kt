@@ -7,7 +7,6 @@ import android.view.View
 import com.roynaldi19.bfaa06_01unittest.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity(), View.OnClickListener {
-
     private lateinit var activityMainBinding: ActivityMainBinding
     private lateinit var mainViewModel: MainViewModel
 
@@ -25,7 +24,6 @@ class MainActivity : AppCompatActivity(), View.OnClickListener {
     }
 
     override fun onClick(v: View) {
-
         val length = activityMainBinding.edtLength.text.toString().trim()
         val width = activityMainBinding.edtWidth.text.toString().trim()
         val height = activityMainBinding.edtHeight.text.toString().trim()
