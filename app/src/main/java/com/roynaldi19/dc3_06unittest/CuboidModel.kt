@@ -1,4 +1,4 @@
-package com.roynaldi19.bfaa06_01unittest
+package com.roynaldi19.dc3_06unittest
 
 class CuboidModel {
     private var width = 0.0

@@ -12,5 +12,5 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "BFAA06_01UnitTest"
+rootProject.name = "DC3_06UnitTest"
 include ':app'

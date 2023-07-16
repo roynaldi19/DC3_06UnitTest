@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.roynaldi19.bfaa06_01unittest">
+    package="com.roynaldi19.dc3_06unittest">
 
     <application
         android:allowBackup="true"
@@ -10,7 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.BFAA06_01UnitTest">
         <activity
-            android:name=".MainActivity"
+            android:name="com.roynaldi19.dc3_06unittest.MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

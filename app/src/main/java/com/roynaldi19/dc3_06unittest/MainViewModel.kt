@@ -1,4 +1,4 @@
-package com.roynaldi19.bfaa06_01unittest
+package com.roynaldi19.dc3_06unittest
 
 import androidx.lifecycle.ViewModel
 
